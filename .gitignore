@@ -1,0 +1,18 @@
+#Build Output
+bin/
+obj/
+
+# User-specific filed
+*.user
+*.suo
+
+#logs
+*.log
+
+#Environment files
+.env
+
+#Visual studio
+.vs/
+
+appsettings.Development.json
